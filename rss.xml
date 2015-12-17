@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Kollektiv]]></title>
         <description><![CDATA[Kollektiv]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kollektiv/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 17 Dec 2015 09:33:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/kollektiv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wir stehen am Ende der Mobilität, wie wir sie kennen | vbzonline.ch]]></title>
+            <description><![CDATA[<article><h1>Wir stehen am Ende der Mobilität, wie wir sie kennen | vbzonline.ch</h1><p>Unser modernes Leben ist ohne Mobilität nicht zu bewältigen. In unserer Gesellschaft, unserer Kultur und unserer Wirtschaft spielt die Mobilität eine zentrale Rolle. Dabei seien einige Fragen erlaubt: Wie viel Mobilität können und wollen wir uns leisten? Welche Art von Mobilität gereicht uns zum Wohle?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3c2ed1aea6ab5c00e1cf213d53c668e3a5c007c.jpg"></article>]]></description>
+            <link>https://vbzonline.ch/2015/11/25/wir-stehen-am-ende-der-mobilitat-wie-wir-sie-kennen/</link>
+            <guid isPermaLink="false">e9a13638-58b1-4aa0-9b74-5f67f3498ba3</guid>
+            <pubDate>Thu, 17 Dec 2015 09:33:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eine Ode an die unscheinbaren Erfolgsfaktoren | vbzonline.ch]]></title>
             <description><![CDATA[<article><h1>Eine Ode an die unscheinbaren Erfolgsfaktoren | vbzonline.ch</h1><p>Bilder: Rico Rosenberger Ein Artikel aus dem Magazin 2030 Die anerkannte Mercer-Studie bestätigt, dass "die ausgezeichneten öffentlichen Verkehrsmittel" Zürich auf Platz zwei der besten Städte der Welt bringen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aac8a47ade7139e70b0b57e99d10bea28aa3496.jpg"></article>]]></description>
