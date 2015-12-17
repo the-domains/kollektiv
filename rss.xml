@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kollektiv]]></title>
+        <description><![CDATA[Kollektiv]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 09:33:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eine Ode an die unscheinbaren Erfolgsfaktoren | vbzonline.ch]]></title>
+            <description><![CDATA[<article><h1>Eine Ode an die unscheinbaren Erfolgsfaktoren | vbzonline.ch</h1><p>Bilder: Rico Rosenberger Ein Artikel aus dem Magazin 2030 Die anerkannte Mercer-Studie bestätigt, dass "die ausgezeichneten öffentlichen Verkehrsmittel" Zürich auf Platz zwei der besten Städte der Welt bringen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aac8a47ade7139e70b0b57e99d10bea28aa3496.jpg"></article>]]></description>
+            <link>https://vbzonline.ch/2015/10/15/eine-ode-an-die-unscheinbaren-erfolgsfaktoren/</link>
+            <guid isPermaLink="false">5342fe6d-6dd1-425b-90eb-bca50d0500e1</guid>
+            <pubDate>Thu, 17 Dec 2015 09:33:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
