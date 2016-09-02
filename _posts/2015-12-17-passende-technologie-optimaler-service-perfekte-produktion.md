@@ -7,18 +7,24 @@ publisher:
   favicon: 'https://www.tpcag.ch/content/themes/tpc/build/fav/tpcag-favicon.ico'
   domain: www.tpcag.ch
 keywords: []
-description: 'Passende Technologie, optimaler Service, perfekte Produktionen. tpc ist der führende Broadcast Dienstleister in der Schweiz. Unser Know-how und unseren Erfahrungsschatz nutzen wir für die Planung, Herstellung und Verwaltung von audiovisuellen Produkten. Kurzer Nachrichtenbeitrag, mehrwöchige Sportübertragung, brillanter Event oder komplexes Multimedia-Projekt - wir wissen wie es geht.'
+description: >-
+  Passende Technologie, optimaler Service, perfekte Produktionen. tpc ist der
+  führende Broadcast Dienstleister in der Schweiz. Unser Know-how und unseren
+  Erfahrungsschatz nutzen wir für die Planung, Herstellung und Verwaltung von
+  audiovisuellen Produkten. Kurzer Nachrichtenbeitrag, mehrwöchige
+  Sportübertragung, brillanter Event oder komplexes Multimedia-Projekt - wir
+  wissen wie es geht.
 inLanguage: de
 app_links: []
-isBasedOnUrl: 'https://www.tpcag.ch/'
 title: 'Passende Technologie, optimaler Service, perfekte Produktionen.'
-datePublished: '2015-12-17T13:25:56.266Z'
-dateModified: '2015-12-17T13:25:35.541Z'
-sourcePath: _posts/2015-12-17-passende-technologie-optimaler-service-perfekte-produktion.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+datePublished: '2016-08-31T07:08:36.647Z'
+dateModified: '2016-08-31T07:08:36.246Z'
+sourcePath: >-
+  _posts/2015-12-17-passende-technologie-optimaler-service-perfekte-produktion.md
+hasPage: true
+via: {}
+starred: false
+url: passende-technologie-optimaler-service-perfekte-produktion/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
