@@ -1,19 +1,4 @@
-name: Kollektiv
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.35425
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-71540589-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,23 @@ color:
   lightness: 0.6717984029091895
   saturation: 0.3125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-71540589-1
+  facebook: null
+  twitter: null
+name: Kollektiv
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Produktionen
+    id: 3c6b2888-6d2d-44c7-b254-4d66133036f8
+    type: content
+favicon: null
 purpose: []
